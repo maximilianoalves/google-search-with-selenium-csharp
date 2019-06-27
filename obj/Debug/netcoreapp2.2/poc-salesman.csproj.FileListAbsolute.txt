@@ -1,0 +1,14 @@
+/Users/Maximiliano/Documents/projetos/cwi/frigelar/poc-salesman/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/Maximiliano/Documents/projetos/cwi/frigelar/poc-salesman/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/Maximiliano/Documents/projetos/cwi/frigelar/poc-salesman/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/Maximiliano/Documents/projetos/cwi/frigelar/poc-salesman/bin/Debug/netcoreapp2.2/poc-salesman.deps.json
+/Users/Maximiliano/Documents/projetos/cwi/frigelar/poc-salesman/bin/Debug/netcoreapp2.2/poc-salesman.runtimeconfig.json
+/Users/Maximiliano/Documents/projetos/cwi/frigelar/poc-salesman/bin/Debug/netcoreapp2.2/poc-salesman.runtimeconfig.dev.json
+/Users/Maximiliano/Documents/projetos/cwi/frigelar/poc-salesman/bin/Debug/netcoreapp2.2/poc-salesman.dll
+/Users/Maximiliano/Documents/projetos/cwi/frigelar/poc-salesman/bin/Debug/netcoreapp2.2/poc-salesman.pdb
+/Users/Maximiliano/Documents/projetos/cwi/frigelar/poc-salesman/obj/Debug/netcoreapp2.2/poc-salesman.csprojAssemblyReference.cache
+/Users/Maximiliano/Documents/projetos/cwi/frigelar/poc-salesman/obj/Debug/netcoreapp2.2/poc-salesman.csproj.CoreCompileInputs.cache
+/Users/Maximiliano/Documents/projetos/cwi/frigelar/poc-salesman/obj/Debug/netcoreapp2.2/poc-salesman.AssemblyInfoInputs.cache
+/Users/Maximiliano/Documents/projetos/cwi/frigelar/poc-salesman/obj/Debug/netcoreapp2.2/poc-salesman.AssemblyInfo.cs
+/Users/Maximiliano/Documents/projetos/cwi/frigelar/poc-salesman/obj/Debug/netcoreapp2.2/poc-salesman.dll
+/Users/Maximiliano/Documents/projetos/cwi/frigelar/poc-salesman/obj/Debug/netcoreapp2.2/poc-salesman.pdb
